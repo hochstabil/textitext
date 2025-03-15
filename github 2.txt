@@ -1,0 +1,1 @@
+Ich schreibe einen Text und committe ihn in einem Repo auf Github, um die Änderungen nachzuverfolgen und wenn nötig ältere Versionen wiederherzustellen.
